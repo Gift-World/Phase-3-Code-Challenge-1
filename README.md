@@ -83,6 +83,13 @@ Here is how you can use some of the application features.
 #### TASK 4
         print(count_vowels("hello"))  # Output will be: 2
 
+#### TASK 8 
+        d1={'a': 2, 'b': 3, 'c': 5}
+        d2={'b': 7, 'c': 1, 'd': 4}
+        merged = merge_dicts(d1, d2 )
+        print(merged)  # Output will be: {'a': 2, 'b': 10, 'c': 6, 'd': 4}
+
+
 #### TASK 9
         car = Car("Toyota", "Camry", 2022)
         car.display_info()
