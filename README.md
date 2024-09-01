@@ -66,5 +66,33 @@ To use this repo, follow these steps:
 - This installs any required dependencies
 2. Run the command `pipenv shell`
 
-- This creates an active environment for thee python programme.
+- This creates an active environment for the python programme.
+
+### Usage
+Here is how you can use some of the application features.
+
+##### TASK 1
+        print(add_numbers(5, 5)) #output will be 10
+
+#### TASK 2 
+        print(is_even(14))  # Output: True
+
+#### TASK 3 
+        print(reverse_string("hello"))  # Output will be "olleh"
+
+#### TASK 4
+        print(count_vowels("hello"))  # Output will be: 2
+
+#### TASK 9
+        car = Car("Toyota", "Camry", 2022)
+        car.display_info()
+        # Output will be :Toyota, Camry ,2022   
+
+## Author
+ - Charles Gift           
+
+
+
+
+        
  
