@@ -83,6 +83,11 @@ Here is how you can use some of the application features.
 #### TASK 4
         print(count_vowels("hello"))  # Output will be: 2
 
+#### TASK 7
+        list = [('Angila', 30), ('Charles', 25), ('Gift', 35)]
+        sorted_people = sort_by_age(list)
+        print(sorted_people) # Output: [('Charles', 25), ('Angila', 30), ('Gift', 35)]
+
 #### TASK 8 
         d1={'a': 2, 'b': 3, 'c': 5}
         d2={'b': 7, 'c': 1, 'd': 4}
