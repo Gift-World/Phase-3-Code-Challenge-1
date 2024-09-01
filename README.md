@@ -20,7 +20,7 @@
 
 
  ## Prerequisites
-  - For easy usage, make sure yu have the following:
+  - For easy usage, make sure you have the following:
    
    1. A reliable laptop or computer with at least 8GB RAM , core i5, 500GB HDD and stable internet access.
 2. An Operating System preferably Linux or Windows 10+.
@@ -34,7 +34,7 @@
 
 To use this repo, follow these steps:
 
-1. pen the terminal/CLI on your computer.
+1. Open the terminal/CLI on your computer.
 2. Clone this repository by running the following command:
 
         git@github.com:Gift-World/Phase-3-Code-Challenge-1.git
