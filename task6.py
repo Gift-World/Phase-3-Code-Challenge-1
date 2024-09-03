@@ -5,4 +5,4 @@ def apply_decorator(func):
     print("Decorator Applied")
     
 
-  return decorator_func
+  return apply_decorator
